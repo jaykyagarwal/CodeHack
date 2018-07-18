@@ -5,4 +5,5 @@ void main()
 
   printf("Welcome to CodeHack\n");
 
+  printf("Hello");
 }
