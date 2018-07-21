@@ -1,4 +1,20 @@
 #include<stdio.h>
+#include "appmaster.h"
+
+
+
+
+void test()
+{
+  app1();
+  printf("Hello");
+  printf("Hello");
+  printf("Hello");
+  printf("Hello");
+  printf("Hello");
+}
+
+
 
 void main()
 {
@@ -9,4 +25,5 @@ void main()
   printf("Hello");
   printf("Hello");
 
+  test();
 }
